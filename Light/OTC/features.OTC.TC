@@ -323,7 +323,7 @@ table OS/2 {
   TypoLineGap 0;
   XHeight 514;
   CapHeight 729;
-  WeightClass 300;
+  WeightClass 250;
   WidthClass 5;
   Panose 2 2 3 0 0 0 0 0 0 0;
   FSType 0;
@@ -39054,7 +39054,7 @@ feature kern {
 
   # Created: Thu Feb  9 22:35:53 2017
 
-  # PS Name: SourceHanSerif-Light
+  # PS Name: SourceHanSerifPlus-ExtraLight
 
   # MinKern: +/- 3 inclusive
 

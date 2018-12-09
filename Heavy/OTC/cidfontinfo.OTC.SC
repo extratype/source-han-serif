@@ -1,7 +1,7 @@
-FontName                   (SourceHanSerifSC-Heavy)
-FullName                   (Source Han Serif Simplified Chinese Heavy)
-FamilyName                 (Source Han Serif Simplified Chinese)
-Weight                     (Heavy)
+FontName                   (SourceHanSerifPlusSC-Bold)
+FullName                   (Source Han Serif+ Simplified Chinese Bold)
+FamilyName                 (Source Han Serif+ Simplified Chinese)
+Weight                     (Bold)
 version                    (1.001)
 Registry                   (Adobe)
 Ordering                   (Identity)
@@ -13,7 +13,7 @@ UnderlinePosition          -150
 AdobeCopyright             (Copyright 2017 Adobe Systems Incorporated (http://www.adobe.com/), with Reserved Font Name 'Source'.)
 Trademark                  (Source is a trademark of Adobe Systems Incorporated in the United States and/or other countries.)
 Serif                      true
-IsBoldStyle                false
+IsBoldStyle                true
 IsItalicStyle              false
 PreferOS/2TypoMetrics      false
 IsOS/2WidthWeigthSlopeOnly false
